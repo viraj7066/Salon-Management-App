@@ -170,19 +170,19 @@ public class Login extends AppCompatActivity {
         });
 
         //Manter iniciada a conta do utilizador
-                if (remenber.isChecked()){
-                    SharedPreferences preferences = getSharedPreferences("Checkbox", MODE_PRIVATE);
-                    SharedPreferences.Editor editor = preferences.edit();
-                    editor.putString("remember", "ON");
-                    editor.apply();
+        if (remenber.isChecked()){
+            SharedPreferences preferences = getSharedPreferences("Checkbox", MODE_PRIVATE);
+            SharedPreferences.Editor editor = preferences.edit();
+            editor.putString("remember", "ON");
+            editor.apply();
 
-                }else if(!remenber.isChecked()){
-                    SharedPreferences preferences = getSharedPreferences("Checkbox", MODE_PRIVATE);
-                    SharedPreferences.Editor editor = preferences.edit();
-                    editor.putString("remember", "OFF");
-                    editor.apply();
+        }else if(!remenber.isChecked()){
+            SharedPreferences preferences = getSharedPreferences("Checkbox", MODE_PRIVATE);
+            SharedPreferences.Editor editor = preferences.edit();
+            editor.putString("remember", "OFF");
+            editor.apply();
 
-                }
+        }
     }
 
     //Desativar butão back durante a verificação dos dados
@@ -191,7 +191,7 @@ public class Login extends AppCompatActivity {
         if(!remenber.isEnabled()){
 
         }else{
-           super.onBackPressed();
+            super.onBackPressed();
         }
     }
 

@@ -141,7 +141,7 @@ public class Register extends AppCompatActivity {
         String hashedPassword = BCrypt.withDefaults().hashToString(12, txt_user_password.toCharArray() );
 
         //Verificar se os caracteres do nome são só letras
-        Pattern special = Pattern.compile ("[0-9!@#$%&*()_+=|<>?{}\\[\\]-]", Pattern.CASE_INSENSITIVE);
+        Pattern special = Pattern.compile ("[0-9! @#$%&*()_+=|<>?{}\\[\\]-]", Pattern.CASE_INSENSITIVE);
         Matcher m = special.matcher(txt_user_name);
         boolean specialChar = m.find();
 
@@ -179,10 +179,6 @@ public class Register extends AppCompatActivity {
         if (txt_user_phone.isEmpty()) {
             editTextPhone.setError(getString(R.string.insertPhone));
             editTextPhone.requestFocus();
-            return;
-        }else if(!validateMobile(txt_user_phone)) {
-            phoneLayout.setError(getString(R.string.invalidPhone));
-            phoneLayout.setEndIconDrawable(R.drawable.ic_error);
             return;
         }else{
             phoneLayout.setEndIconDrawable(R.drawable.ic_check_circle);

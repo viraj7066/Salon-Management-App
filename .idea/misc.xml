@@ -3,6 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Diamond.CareApp/app/src/main/res/layout/activity_animation.xml" value="0.20652173913043478" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Diamond.CareApp/app/src/main/res/layout/activity_forgot_password.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Diamond.CareApp/app/src/main/res/layout/activity_home.xml" value="0.20652173913043478" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Diamond.CareApp/app/src/main/res/layout/activity_login.xml" value="0.20652173913043478" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Diamond.CareApp/app/src/main/res/layout/activity_main.xml" value="0.20652173913043478" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Diamond.CareApp/app/src/main/res/layout/activity_my_profile.xml" value="0.20652173913043478" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Diamond.CareApp/app/src/main/res/layout/activity_my_sessions.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Diamond.CareApp/app/src/main/res/layout/activity_points.xml" value="0.1265625" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Diamond.CareApp/app/src/main/res/layout/activity_register.xml" value="0.1265625" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Diamond.CareApp/app/src/main/res/layout/activity_sessions_services.xml" value="0.1265625" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Diamond.CareApp/app/src/main/res/layout/single_service.xml" value="0.1265625" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Diamond.CareApp/app/src/main/res/layout/time_slot.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Diamond.CareApp/app/src/main/res/layout/toast_normal.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Diamond.CareApp/app/src/main/res/layout/toast_sucess.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Salon Management App/app/src/main/res/layout/activity_register.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/Jose/AndroidStudioProjects/Diamond.CareApp/app/src/main/res/layout/activity_animation.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Jose/AndroidStudioProjects/Diamond.CareApp/app/src/main/res/layout/activity_home.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/Jose/AndroidStudioProjects/Diamond.CareApp/app/src/main/res/layout/activity_points.xml" value="0.25416666666666665" />
