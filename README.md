@@ -1,26 +1,8 @@
-# Diamond Care
-<p align="center"><img width=10% src="https://github.com/joselopes04/Diamond.CareApp/blob/master/Assets/Icon.png"></p>
 
-<p align="center"><img width=60% src="https://github.com/joselopes04/Diamond.CareApp/blob/master/Assets/Screenshots.jpeg"></p>
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/joselopes04/Diamond.CareApp/blob/master/LICENSE)<br>
-
-Diamond Care is an aplication that allows users to make appointments for a beauty saloon. It is a final course school project and it's main idea is to solve the lack of organization in beauty salons. With this app, beauticians can recive appointments from customers wich way more efficiently than the traditional way, where a lot of phone calls and agendas were required. All is now centralized in this app! 
+Salon Management app is an aplication that allows users to make appointments for a beauty saloon. It is a final course school project and it's main idea is to solve the lack of organization in beauty salons. With this app, beauticians can recive appointments from customers wich way more efficiently than the traditional way, where a lot of phone calls and agendas were required. All is now centralized in this app! 
 
 
-## Table of content
 
-- [Install](#install)
-- [Functionalities](#functionalities)
-- [Screenshots](#screenshots)
-- [Built with](#built-with)
-- [Final Notes](#final-notes)
-- [Authors](#authors)
-
-## Install
-This app is only available for Android devices. <br>
-Requirements minimum Android version 5.0 Lollipop. <br>
-Click on this <a href="https://drive.google.com/file/d/1_waqtASnBfk2ITtdNhKs4gGp8ZEZwHg9/view?usp=drivesdk">link</a> to download it!
 
 ## Functionalities
 - Account
@@ -60,11 +42,10 @@ Click on this <a href="https://drive.google.com/file/d/1_waqtASnBfk2ITtdNhKs4gGp
 <a href="https://app-privacy-policy-generator.firebaseapp.com">App Privacy Policy Generator</a> - Privacy policy generator
 
 ## Final Notes
-This was a school project it's not over the way I wanted it to be. <br>
+This was a College project it's not over the way I wanted it to be. <br>
 I was thinking to improve the way to store the appointments in the database, because now you can save many appointments to the same date and hour so the salon it will be overcrowded. <br>
 I wanted the user to be able to manage their appointments, I already add the swipe animation to delete the appointment, but its no linked with the database. <br>
 The points are useless, i was thinking about creating a version for the app to the employees on the salon so they will scan 1 QR code that the user will have to add the points to the user and give discounts. <br> 
 The aplication isn't totally finnished so expect some bugs. <br>
 
-## Authors
-- [José Lopes](https://www.github.com/joselopes04)
+
