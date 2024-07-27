@@ -50,28 +50,6 @@ Click on this <a href="https://drive.google.com/file/d/1_waqtASnBfk2ITtdNhKs4gGp
   - Theme is setted by the Android.
   - Change language (Portuguese, English).
 
-## Screenshots
-Some screenshots of the aplication.
-
-Welcome Screen
-Here you can do the login, the registration and change the language of the app.
-<p align="center"><img width=30% src="https://github.com/joselopes04/Diamond.CareApp/blob/master/Assets/welcomeScreen.jpg"></p>
-
-Home Screen
-Here you can navigate through the menus and on top of the screen you will have a greetings message acording with the time of the day.
-<p align="center"><img width=30% src="https://github.com/joselopes04/Diamond.CareApp/blob/master/Assets/HomeScreen.jpg"></p>
-
-Services Screen
-Here you can view the services of the screen and go to create an appointment at the salon.
-<p align="center"><img width=30% src="https://github.com/joselopes04/Diamond.CareApp/blob/master/Assets/services.jpg"></p>
-
-Confirm Appointment
-Here you can confirm the appointment and see all details.
-<p align="center"><img width=30% src="https://github.com/joselopes04/Diamond.CareApp/blob/master/Assets/confirmAppointment.jpg"></p>
-
-My Appointments
-Here you see your appointments.
-<p align="center"><img width=30% src="https://github.com/joselopes04/Diamond.CareApp/blob/master/Assets/myAppointments.jpg"></p>
 
 ## Built with
 <a href="https://developer.android.com/studio">Android Studio</a> - IDE (Integrated Development Environment) <br>
